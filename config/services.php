@@ -35,4 +35,9 @@ return [
         ],
     ],
 
+    'accuweather' => [
+        'key' => env('ACCUWEATHER_API_KEY'),
+    ],
+
+
 ];
